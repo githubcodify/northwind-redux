@@ -1,0 +1,18 @@
+.container .no-pruduct-desc {
+    padding: 80px;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0.01rem;
+}
+
+@media screen and (max-width: 767px) {
+    .container .no-pruduct-desc {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .container .no-pruduct-desc {
+        font-size: 16px;
+    }
+}

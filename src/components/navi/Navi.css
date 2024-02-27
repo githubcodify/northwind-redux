@@ -1,0 +1,17 @@
+.nav-component {
+    display: block;
+    text-decoration: none;
+    color: rgba(0, 0, 0, .65);
+    padding: 8px;
+    transition: color .15s ease-in-out;
+}
+
+.nav-component:hover {
+    color: rgb(51, 51, 51);
+}
+
+@media screen and (max-width: 767px) {
+    .nav-component {
+        padding: 8px 0;
+    }
+}
