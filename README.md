@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-A React Redux project with redux thunk that uses json-server to fetch data
+A react-redux project with redux-thunk that uses json-server to fetch data
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
